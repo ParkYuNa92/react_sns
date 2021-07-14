@@ -1,1 +1,1 @@
-# react_study
+# react_sns
